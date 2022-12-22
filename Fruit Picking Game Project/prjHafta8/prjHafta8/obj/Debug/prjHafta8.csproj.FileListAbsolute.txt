@@ -1,0 +1,22 @@
+C:\Users\CSAdmin\source\repos\prjHafta8\prjHafta8\bin\Debug\prjHafta8.exe.config
+C:\Users\CSAdmin\source\repos\prjHafta8\prjHafta8\bin\Debug\prjHafta8.exe
+C:\Users\CSAdmin\source\repos\prjHafta8\prjHafta8\bin\Debug\prjHafta8.pdb
+C:\Users\CSAdmin\source\repos\prjHafta8\prjHafta8\obj\Debug\prjHafta8.csprojAssemblyReference.cache
+C:\Users\CSAdmin\source\repos\prjHafta8\prjHafta8\obj\Debug\prjHafta8.Form1.resources
+C:\Users\CSAdmin\source\repos\prjHafta8\prjHafta8\obj\Debug\prjHafta8.Properties.Resources.resources
+C:\Users\CSAdmin\source\repos\prjHafta8\prjHafta8\obj\Debug\prjHafta8.ucntrlKart.resources
+C:\Users\CSAdmin\source\repos\prjHafta8\prjHafta8\obj\Debug\prjHafta8.csproj.GenerateResource.cache
+C:\Users\CSAdmin\source\repos\prjHafta8\prjHafta8\obj\Debug\prjHafta8.csproj.CoreCompileInputs.cache
+C:\Users\CSAdmin\source\repos\prjHafta8\prjHafta8\obj\Debug\prjHafta8.exe
+C:\Users\CSAdmin\source\repos\prjHafta8\prjHafta8\obj\Debug\prjHafta8.pdb
+C:\Users\erdmg\Masaüstü\for edc\kazanimlar\YZL209_OOP\lab questions\8.Hafta\prjHafta8\prjHafta8\bin\Debug\prjHafta8.exe.config
+C:\Users\erdmg\Masaüstü\for edc\kazanimlar\YZL209_OOP\lab questions\8.Hafta\prjHafta8\prjHafta8\bin\Debug\prjHafta8.exe
+C:\Users\erdmg\Masaüstü\for edc\kazanimlar\YZL209_OOP\lab questions\8.Hafta\prjHafta8\prjHafta8\bin\Debug\prjHafta8.pdb
+C:\Users\erdmg\Masaüstü\for edc\kazanimlar\YZL209_OOP\lab questions\8.Hafta\prjHafta8\prjHafta8\obj\Debug\prjHafta8.csproj.AssemblyReference.cache
+C:\Users\erdmg\Masaüstü\for edc\kazanimlar\YZL209_OOP\lab questions\8.Hafta\prjHafta8\prjHafta8\obj\Debug\prjHafta8.Form1.resources
+C:\Users\erdmg\Masaüstü\for edc\kazanimlar\YZL209_OOP\lab questions\8.Hafta\prjHafta8\prjHafta8\obj\Debug\prjHafta8.Properties.Resources.resources
+C:\Users\erdmg\Masaüstü\for edc\kazanimlar\YZL209_OOP\lab questions\8.Hafta\prjHafta8\prjHafta8\obj\Debug\prjHafta8.ucntrlKart.resources
+C:\Users\erdmg\Masaüstü\for edc\kazanimlar\YZL209_OOP\lab questions\8.Hafta\prjHafta8\prjHafta8\obj\Debug\prjHafta8.csproj.GenerateResource.cache
+C:\Users\erdmg\Masaüstü\for edc\kazanimlar\YZL209_OOP\lab questions\8.Hafta\prjHafta8\prjHafta8\obj\Debug\prjHafta8.csproj.CoreCompileInputs.cache
+C:\Users\erdmg\Masaüstü\for edc\kazanimlar\YZL209_OOP\lab questions\8.Hafta\prjHafta8\prjHafta8\obj\Debug\prjHafta8.exe
+C:\Users\erdmg\Masaüstü\for edc\kazanimlar\YZL209_OOP\lab questions\8.Hafta\prjHafta8\prjHafta8\obj\Debug\prjHafta8.pdb
